@@ -1,4 +1,4 @@
-# HerbNet-dataset
+# HerbNet-dataset  (under review)
 
 This repository contains the dataset used to train the HerbNet model.
 
